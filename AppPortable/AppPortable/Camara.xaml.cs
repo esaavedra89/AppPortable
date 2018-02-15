@@ -4,6 +4,8 @@ Se le agrega estos assembly
 
 [assembly: UsesPermission(Android.Manifest.Permission.Camera)]
 [assembly: UsesPermission(Android.Manifest.Permission.ReadExternalStorage)]
+
+Y el plugin Xam.Plugin.Media Version 2.3.0
  */
 
 using Plugin.Media;
